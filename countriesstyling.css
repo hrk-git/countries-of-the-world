@@ -1,0 +1,104 @@
+.topbar{
+    width:100%;
+
+}
+.heading{
+     font: 1em sans-serif;
+     width:100%;
+     float: left;
+     
+ }
+ .headingadjustment{
+     /* to adjust position of the heading image slightly to the right */
+     width:5%;
+     height:1200px;
+     float: left;
+
+ }
+ .headingimage{
+     width:80%;
+     float: left;
+ 
+ }
+ .continents{
+     font: 1em sans-serif;
+     width:100%;
+ }
+ .section1{
+     float: left;
+     width:100%;
+     border-top: 2px solid black;
+     padding-bottom: 20px;
+     padding-top: 20px;
+ }
+ .europe{
+     font: 1em sans-serif;
+ }
+ .europemap{
+     float:right;
+    
+ }
+ .section2{
+     float:left;
+     width:100%;
+     border-top: 2px solid black;
+     padding-top: 20px;
+ }
+
+ .centralasia{
+     font: 1em sans-serif;
+ }
+ .centralasiamap{
+     float:right; 
+         
+ }
+ .middleeast{
+     font: 1em sans-serif;
+ }
+ .middleeastmap{
+    
+     float:right;
+    
+ }
+ .section3{
+     float:left;
+     width:100%;
+     border-top: 2px solid black;
+     padding-top: 20px;
+ }
+ .section4{
+     float:left;
+     width:100%;
+     border-top: 2px solid black;
+     padding-top: 20px;
+
+ }
+ .section5{
+    float:left;
+    width:100%;
+    border-top: 2px solid black;
+    padding-top: 20px;
+
+ }
+.southeastasiamap{
+
+    float:right;
+}
+ .southeastasia{
+     font: 1em sans-serif;
+ }
+ .southasia{
+     font: 1em sans-serif;
+ }
+ .southasiamap{
+     float: right;
+ }
+ .eastasia{
+     font: 1em sans-serif;
+ }
+ .southamerica{
+     font: 1em sans-serif;
+ }
+ .northafrica{
+     font: 1em sans-serif;
+ }
